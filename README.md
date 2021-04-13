@@ -3,7 +3,7 @@ A seekbar with custom indicator which supports RTL layout too.
 
 Add it in your root build.gradle at the end of repositories:
 
-  allprojects {
+  	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -13,7 +13,7 @@ Add it in your root build.gradle at the end of repositories:
   
 Add the dependency:
 
-  dependencies {
+  	dependencies {
 	        implementation 'com.github.GDMistry:IndicatorSeekBar:Tag'
 	}
   
@@ -34,3 +34,4 @@ Usage :
         
 Preview :
 
+![image](https://user-images.githubusercontent.com/66417665/114538213-be6cbe80-9c70-11eb-93a1-dd9ec9245580.png)
