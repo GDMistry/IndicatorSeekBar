@@ -1,0 +1,3 @@
+include ':IndicatorSeekBarLibrary'
+include ':app'
+rootProject.name = "IndicatorSeekBar"
